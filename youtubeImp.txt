@@ -1,0 +1,21 @@
+> what is npm i --legacy-peer-deps ?? why it is installed ???
+
+> what is npm i axios react-player ????
+
+> The Stack component manages layout of immediate children along the vertical or horizontal axis with optional spacing and/or dividers between each child.
+
+> what is useEffect hook ???
+- it is a hook which is used to perform some side task on change of some state 
+- for detailed explanation : https://youtu.be/tGXbiU2jcs4
+
+
+> The Box component serves as a wrapper component for most of the CSS utility needs. The Box component packages all the style functions that are exposed in @mui/system .
+
+> Axios is a library that serves to create HTTP requests that are present externally
+
+> In computer programming, asynchronous operation means that a 
+    process operates independently of other processes.
+
+> we no longer need to import React from "react". Starting from the release 17 of React, JSX is automatically transformed without using React.createElement.
+  However, other exports like hooks must be imported.
+    link : https://stackoverflow.com/questions/71725865/do-i-need-to-import-react-in-every-file#:~:text=You%20no%20longer%20need%20to,like%20hooks%20must%20be%20imported.
